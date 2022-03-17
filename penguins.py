@@ -1,0 +1,11 @@
+p1 = "   _~_    "
+p2 = "  (o o)   "
+p3 = " /  V  \\  "
+p4 = "/(  _  )\\ "
+p5 = "  ^^ ^^   "
+amount = int(input())
+print(p1 * amount, sep=" ")
+print(p2 * amount, sep=" ")
+print(p3 * amount, sep=" ")
+print(p4 * amount, sep=" ")
+print(p5 * amount, sep=" ")
